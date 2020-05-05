@@ -4,6 +4,7 @@ public class SortArray {
     private int[] array;
 
     public SortArray() {
+    
     }
 
     public SortArray(int[] array) {
